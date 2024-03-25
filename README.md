@@ -25,12 +25,10 @@ Users should be able to:
 
 ![Destop-screenshot](./images/destop-screenshot.png)
 
-![Mobile-screenshot](./images/mobilescreen-shot.png)
-
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Wojciech-Podlesny)
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://wojciech-podlesny.github.io/Easybank-landing-page)
 
 ## My process
 
