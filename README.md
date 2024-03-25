@@ -25,8 +25,6 @@ Users should be able to:
 
 ![Destop-screenshot](./images/destop-screenshot.png)
 
-![Mobile-screenshot](./images/mobilescreen-shot.png)
-
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Wojciech-Podlesny)
