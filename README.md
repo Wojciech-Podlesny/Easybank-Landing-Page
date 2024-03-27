@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Wojciech-Podlesny/Easybank-Landing-Page)
-- Live Site URL: [Live Site URL](https://wojciech-podlesny.github.io/Easybank-landing-page)
+- Live Site URL: [Live Site URL](https://easybank-landing-page-theta-flame.vercel.app/)
 
 ## My process
 
