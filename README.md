@@ -4,6 +4,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ## Table of contents
 
+- [Frontend Mentor - Easybank landing page  solution](#frontend-mentor---easybank-landing-page-solution)
+  - [Table of contents](#table-of-contents)
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -23,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Destop-screenshot](./images/destop-screenshot.png)
+![Destop Design](./images/destop-screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Wojciech-Podlesny)
+- Solution URL: [Solution URL](https://github.com/Wojciech-Podlesny/Easybank-Landing-Page)
 - Live Site URL: [Live Site URL](https://wojciech-podlesny.github.io/Easybank-landing-page)
 
 ## My process
@@ -37,9 +39,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Mobile-first workflow
 - Javascript
 
 ## Author
 
 - GitHub - [Wojciech Podleśny](https://github.com/Wojciech-Podlesny)
-- Frontend Mentor - [Wojciech Podleśny](https://www.frontendmentor.io/profile/Wojciech-Podlesny)
+- Frontend Mentor - [@Wojciech-Podleśny](https://www.frontendmentor.io/profile/Wojciech-Podlesny)
